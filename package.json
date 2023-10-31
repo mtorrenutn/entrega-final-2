@@ -1,0 +1,19 @@
+{
+  "name": "nueva-carpeta",
+  "version": "1.0.0",
+  "description": "java script final",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtorrenutn/entrega-final-2.git"
+  },
+  "author": "matias torren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtorrenutn/entrega-final-2/issues"
+  },
+  "homepage": "https://github.com/mtorrenutn/entrega-final-2#readme"
+}
