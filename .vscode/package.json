@@ -1,7 +1,7 @@
 {
   "name": "nueva-carpeta",
   "version": "1.0.0",
-  "description": "java script final",
+  "description": "entrega final, buenos aires bebidas compra y mail con email js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
