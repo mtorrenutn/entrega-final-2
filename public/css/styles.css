@@ -180,13 +180,22 @@
   .container-form {
     width: 400px;
     height: 400px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transform: translate(2100px,0px);
-    background-color: rgba(37, 37, 37, 0.142);
+    display: grid;
+    place-items: center;
+    margin: auto;
+ background-image: url(/public/images/fondo-cuestionario.avif);
 
+
+    
   }
+  .container-form label {
+    font-size: 18px; 
+    font-weight: bold; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(65, 63, 63);
+}
+  
+  
   h2{
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
